@@ -1,6 +1,6 @@
 # Hi there, I'm Adam
 
-## 💻 Languages that I sorta know:
+## 💻 Languages I sorta know:
 
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">
 
@@ -23,7 +23,10 @@
 
 <img align="left" alt="Git" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png">
 
+<img align="left" alt="Adobe XD" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/adobexd.svg">
+
 <img align="left" alt="Github" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg">
+
 
 <br>
 <br>
