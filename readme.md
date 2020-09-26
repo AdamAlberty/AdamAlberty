@@ -51,6 +51,6 @@
 
 ### Socials:
 
-[<img align="left" alt="Adam Alberty | StackOverflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg">] [stackoverflow]
+<img align="left" target="_blank" alt="Adam Alberty | StackOverflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg"> [stackoverflow]
 
 [stackoverflow]: https://stackoverflow.com/users/13814542/adam-alberty
