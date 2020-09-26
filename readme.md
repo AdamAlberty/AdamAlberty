@@ -25,8 +25,10 @@
 
 <img align="left" alt="Github" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg">
 
-
 <br>
+<br>
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=adamalberty)](https://github.com/anuraghazra/github-readme-stats)
 
 #### Accomplishments:
 - 📙 Read Python Crash Course 2nd Edition
@@ -49,7 +51,6 @@
 
 ### Socials:
 
-[<img align="left" alt="Portfolio" width='22px' src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg">][website]
-<img align="left" alt="Adam Alberty | StackOverflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg"> [stackoverflow]
+[<img align="left" alt="Adam Alberty | StackOverflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg">] [stackoverflow]
 
 [stackoverflow]: https://stackoverflow.com/users/13814542/adam-alberty
