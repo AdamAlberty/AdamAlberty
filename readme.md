@@ -41,6 +41,7 @@
 ### Projects I want to make: 
 - [X] To-Do app
 - [X] Password Generator
+- [X] Micro Blog
 - Portfolio Website
 
 ## Technologies I want to learn:
