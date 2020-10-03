@@ -40,7 +40,7 @@
 
 ### Projects I want to make: 
 - [X] To-Do app
-- Password Generator
+- [X] Password Generator
 - Portfolio Website
 
 ## Technologies I want to learn:
