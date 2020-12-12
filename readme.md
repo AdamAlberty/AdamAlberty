@@ -1,13 +1,11 @@
 # Hi there, I'm Adam
 
-## 💻 Languages I sorta know:
-
-<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">
+## 💻 Languages I kinda know:
 
 <img align="left" alt="HTML" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">
-
-
 <img align="left" alt="CSS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png">
+<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">
+<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
 
 <br>
 
@@ -25,9 +23,6 @@
 
 <img align="left" alt="Adobe XD" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/adobexd.svg">
 
-<img align="left" alt="Github" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg">
-
-
 <br>
 <br>
 
@@ -36,18 +31,17 @@
 #### Accomplishments:
 - 📙 Read Python Crash Course 2nd Edition
 - ✔ Finished Html, Css Course
+- Working on CodeCademy javaScript Course.
 
 
 ### Projects I want to make: 
 - [X] To-Do app
 - [X] Password Generator
-- Micro Blog
-- Portfolio Website
+- [ ] Micro Blog
+- [ ] Portfolio Website
 
 ## Technologies I want to learn:
 <img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png">
-
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
 
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">
 
