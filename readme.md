@@ -1,53 +1,37 @@
-# Hi there, I'm Adam
+<h2 align="center">Tech I'm slowly learning</h2>
 
-## 💻 Languages I kinda know:
+<img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" height="60">
+<img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" height="60">
+<img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" height="60">
+<img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" height="60">
+<img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" height="60">
+<img align="left" src="https://raw.githubusercontent.com/styled-components/brand/master/styled-components.png" height="60">
+<img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" height="60">
+<img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/npm/npm.png" height="60">
 
-<img align="left" alt="HTML" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">
-<img align="left" alt="CSS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png">
-<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
-
-<br>
-
-## ⚙ Frameworks:
-
-<img align="left" alt="Flask" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png">
-
-<br>
-
-## 🛠 Tools I use:
-
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png">
-<img align="left" alt="Git" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png">
-<img align="left" alt="Adobe XD" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/adobexd.svg">
-<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png">
-
-<br>
-<br>
-
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=adamalberty)](https://github.com/anuraghazra/github-readme-stats)
-
-#### Accomplishments:
-- 📙 Read Python Crash Course 2nd Edition
-- ✔ Finished Html, Css Course
-- Working on CodeCademy javaScript Course.
+<br />  
+<br />  
+<br />  
 
 
-### Projects I want to make: 
-- [X] To-Do app
-- [X] Password Generator
-- [ ] Micro Blog
-- [ ] Portfolio Website
+<h2 align="center">Stuff I'd like to learn in the future 🔮</h2>
 
-## Technologies I want to learn:
+<img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" height="60">
+<img align="left" src="https://camo.githubusercontent.com/b0972dd62bbf6ee0e28ed0ebceb48427a481568caeeb639066b23c754f0c60e5/68747470733a2f2f7777772e6761747362796a732e636f6d2f4761747362792d4d6f6e6f6772616d2e737667" height="60">
+<img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" height="60">
+<img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" height="60">
+<img align="left" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png" height="60">
 
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">
-<img align="left" alt="NodeJS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">
 
-<br>
+<br />  
+<br />  
+<br />  
 
-### Socials:
 
-<img align="left" target="_blank" alt="Adam Alberty | StackOverflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg"> [stackoverflow]
+<h2 align="center">My Github stats 🔢</h2>
 
-[stackoverflow]: https://stackoverflow.com/users/13814542/adam-alberty
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adamalberty&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=adamalberty&count_private=true&theme=cobalt)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=adamalberty&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
+
