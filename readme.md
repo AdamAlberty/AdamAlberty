@@ -1,5 +1,5 @@
 # Hello, I'm Adam 
-I'm an aspiring web developer who focuses mainly on frontend. I'm currently graduating high school. I plan on pursuing **computer science** in the university.
+I'm an aspiring web developer who focuses mainly on frontend. I'm currently graduating high school. I plan on pursuing **computer science** at university.
 - You can follow me on Twitter: **@AdamAlberty**
 
 
