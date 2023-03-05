@@ -1,3 +1,3 @@
 <img src="https://raw.githubusercontent.com/AdamAlberty/AdamAlberty/master/github-profile.png" />
 
-I'm like working in the React Ecosystem. I'm always learning new technologies as I progress through this amazing world of computers.
+I work with JavaScript/TypeScript... And React... And Next.js... And Tailwind... And Node.js... And Postgres... And C... 
