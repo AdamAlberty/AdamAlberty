@@ -1,3 +1,3 @@
-<img src="https://raw.githubusercontent.com/AdamAlberty/AdamAlberty/master/github-profile.png" />
+<img src="https://raw.githubusercontent.com/AdamAlberty/AdamAlberty/master/github-banner.png" />
 
-I work with JavaScript/TypeScript... And React... And Next.js... And Tailwind... And Node.js... And Postgres... And C... 
+I'm a (mainly) frontend developer working with technologies such as TypeScript and Next.js.
